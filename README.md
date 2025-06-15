@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Octopus (gguuttss)
-- 👀 I’m primarily interested in anything Radix DLT
-- 📫 How to reach me: @octopusxrd on Telegram
-- ⚡ Fun fact: Squidward from Spongebob isn't really a squid... he's an octopus.
+👋 hi, i’m octo (gguuttss).
+
+i mainly build stuff on Radix
+
+contact:
+@octopusxrd on Telegram
+octopusxrd@gmail.com
 
 <!---
 gguuttss/gguuttss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
